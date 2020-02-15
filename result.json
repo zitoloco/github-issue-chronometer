@@ -1,0 +1,39 @@
+{
+  "number": 442,
+  "title": "31/01 - Copiar valor do campo 'transaction_cost.boleto' para 'boletos.payment_fixed_fee' nas companies via marreta",
+  "state": "closed",
+  "assignee": {
+    "login": "matheusvellone"
+  },
+  "labels": [
+    {
+      "name": "cos:standard",
+      "state": "closed",
+      "started_at": "2019-10-28T18:09:01Z",
+      "finished_at": "2019-12-19T14:27:48Z",
+      "timestamp_duration": 4479527000
+    },
+    {
+      "name": "cos:fixed-date",
+      "state": "open",
+      "started_at": "2019-12-19T14:27:48Z",
+      "finished_at": null,
+      "timestamp_duration": null
+    },
+    {
+      "name": "phase:development",
+      "state": "open",
+      "started_at": "2020-01-27T11:53:48Z",
+      "finished_at": null,
+      "timestamp_duration": null
+    },
+    {
+      "name": "category:feature",
+      "state": "open",
+      "started_at": "2020-01-27T12:04:08Z",
+      "finished_at": null,
+      "timestamp_duration": null
+    }
+  ]
+
+}
